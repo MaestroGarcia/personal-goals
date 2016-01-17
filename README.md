@@ -25,6 +25,10 @@ Personal goals made open source for accessibility
 - [ ] Blog post about PostCSS and why you should drop Sass/Less/Stylus 
 - [ ] Create starterkit in React
 - [ ] Work on PostCSS.org styleguide in React 
+- [ ] Create an useful PostCSS Plugin :smile:
+- [ ] Cleanup GitHub repos
+- [ ] Finish off Owl Carousel 2 Plugin for WordPress with docs
+- [ ] Update BlogSixteen to 1.6 (WordPress theme)
 - [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools.
 - [ ] Switch webhosting providor to Amazon Cloud for my personal website to look at benefits. 
 - [ ] Build a super cool application that will make me billion of dollars :wink:
