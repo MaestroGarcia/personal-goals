@@ -13,23 +13,24 @@ Personal goals made open source for accessibility
 
 # Feburary 1, 2016 
 
-## Things I'll do This Month
+## Things I'll do this month
 
-- [ ] Countine leading the open source project [postcss.org](https://github.com/postcss/postcss.org) to goal with some other talented people to accquire new knowledge from.
-- [ ] Take courses from [frontendmasters](https://frontendmasters.com/courses/) - Advanced JS Fundamentals to jQuery & Pure DOM Scripting
-- [ ] Wes Bos course on React with ES6 essentials and take a look at [Firebase](https://www.firebase.com/)
-- [ ] Attend to more Office Hour sessions at CSS-Tricks.
+- [ ] Countine leading the open source project [postcss.org](https://github.com/postcss/postcss.org) to goal with some other talented people to accquire new knowledge from. 
+- [ ] Course from [frontendmasters](https://frontendmasters.com/courses/) - Advanced JS Fundamentals to jQuery & Pure DOM Scripting
+- [ ] Course from Wes Bos course on React with ES6 essentials 
+- [ ] Take a look at [Firebase](https://www.firebase.com/)
+- [ ] Attend to more Office Hour sessions at CSS-Tricks :blush:
 
 ### Things to do in the future:
 - [ ] Rebuild my personal website marcustisater.se with a new fresch design
-- [ ] Blog post about PostCSS and why you should drop Sass/Less/Stylus 
-- [ ] Create starterkit in React
+- [ ] Blog post about PostCSS and why you should drop Sass/Less/Stylus becuase of it.
+- [ ] Create starterkit/boilerplate in React
 - [ ] Work on PostCSS.org styleguide in React 
-- [ ] Create an useful PostCSS Plugin :smile:
-- [ ] Cleanup GitHub repos
-- [ ] Finish off Owl Carousel 2 Plugin for WordPress with docs
+- [ ] Create an useful PostCSS Plugin :blush:
+- [ ] Cleanup my GitHub Repositories
+- [ ] Finish off Owl Carousel 2 Plugin for WordPress with great documentation
 - [ ] Update BlogSixteen to 1.6 (WordPress theme)
-- [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools.
-- [ ] Switch webhosting providor to Amazon Cloud for my personal website to look at benefits. 
+- [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools. [Repo](https://github.com/wpsvse/wpsvse-optimize-analysis)
+- [ ] Switch webhosting providor to Amazon Cloud to look upon benefits 
 - [ ] Build a super cool application that will make me billion of dollars :wink:
 
