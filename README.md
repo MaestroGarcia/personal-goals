@@ -8,8 +8,8 @@ Personal goals made open source for accessibility
 2. Write blog posts
 3. Learn more about React(Redux & Flux), Backbone and Angular 2 
 4. Master CSS Animations and SVG
-5. Dediciation to help the [PostCSS](https://github.com/postcss/postcss) & [WordPress Sverige](http://wpsv.se/) community grow
-6. Speak at an conferance or meetup
+5. Dediciation to help the [PostCSS](https://github.com/postcss/postcss) & [WordPress Sverige](http://wpsv.se/) community grow and be a part of it. 
+6. Speak at a conferance or meetup
 
 # Feburary 1, 2016 
 
@@ -22,15 +22,15 @@ Personal goals made open source for accessibility
 - [ ] Attend to more Office Hour sessions at CSS-Tricks :blush:
 
 ### Things to do in the future:
-- [ ] Rebuild my personal website marcustisater.se with a new fresch design
+- [ ] Rebuild my personal website [marcustisater.se](http://www.marcustisater.se) with a new design
 - [ ] Blog post about PostCSS and why you should drop Sass/Less/Stylus becuase of it.
 - [ ] Create starterkit/boilerplate in React
 - [ ] Work on PostCSS.org styleguide in React 
 - [ ] Create an useful PostCSS Plugin :blush:
 - [ ] Cleanup my GitHub Repositories
-- [ ] Finish off Owl Carousel 2 Plugin for WordPress with great documentation
+- [ ] Finish off Owl Carousel 2 Plugin for WordPress with documentation
 - [ ] Update BlogSixteen to 1.6 (WordPress theme)
-- [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools. [Repo](https://github.com/wpsvse/wpsvse-optimize-analysis)
+- [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools under 1500ms. [Repo](https://github.com/wpsvse/wpsvse-optimize-analysis)
 - [ ] Switch webhosting providor to Amazon Cloud to look upon benefits 
 - [ ] Build a super cool application that will make me billion of dollars :wink:
 
