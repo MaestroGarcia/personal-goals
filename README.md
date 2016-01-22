@@ -32,5 +32,7 @@ Personal goals made open source for accessibility
 - [ ] Update BlogSixteen to 1.6 (WordPress theme)
 - [ ] Optimize [wpsv.se](wpsv.se) to perfection with automation tools under 1500ms. [Repo](https://github.com/wpsvse/wpsvse-optimize-analysis)
 - [ ] Switch webhosting providor to Amazon Cloud to look upon benefits 
+- [ ] React Routing
+- [ ] CSS Animation Course Scott Tolinski
 - [ ] Build a super cool application that will make me billion of dollars :wink:
 
